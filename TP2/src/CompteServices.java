@@ -10,7 +10,7 @@ public class CompteServices {
             } else if (solde <= 1000) {
                 c1.categorie ='C';
             }else {
-                c1.categorie='A';
+                c1.categorie='Z';
             }
             return c1;
         }
