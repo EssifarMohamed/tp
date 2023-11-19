@@ -3,6 +3,6 @@
 public class Main {
     public static void main(String[] args) {
         CompteServices compteServices = new CompteServices();
-
+        System.out.println("check update github");
     }
 }
